@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Ricky ! I am now studying Computer Science 👋
 
 <!--
 **RickyLWL/RickyLWL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
